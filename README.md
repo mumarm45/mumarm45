@@ -51,22 +51,7 @@ I'm passionate about creating robust, performant applications and mentoring deve
 - Messaging: RabbitMQ
 - Testing: TDD, BDD, Unit & Integration Testing (Jasmine, Jest, JUnit)
 
----
 
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-COMSATS Institute of Information Technology  
-*Jan 2009 – Dec 2013 | Lahore, Pakistan*
-
----
-
-## 🌍 Languages
-
-- **English:** Advanced
-- **German:** Elementary
-
----
 
 ## 📫 Get in Touch
 
