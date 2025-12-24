@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Software Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/munarm45/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mumarm45/)
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://www.omarmuneercoder.de/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:munarm45@gmail.com)
 
