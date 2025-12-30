@@ -52,7 +52,15 @@ I'm passionate about creating robust, performant applications and mentoring deve
 - Testing: TDD, BDD, Unit & Integration Testing (Jasmine, Jest, JUnit)
 
 
+## 🚀 Current Focus
 
+- Expanding AI integrations using Model Context Protocol (MCP)
+- Deepening expertise in cloud-native architectures
+- Contributing to open-source projects
+- Mentoring junior developers
+- Generative AI Applications and RAG 
+
+---
 ## 📫 Get in Touch
 
 - **Email:** [munarm45@gmail.com](mailto:munarm45@gmail.com)
@@ -60,24 +68,6 @@ I'm passionate about creating robust, performant applications and mentoring deve
 - **Phone:** +49 162 473 9773
 - **LinkedIn:** [linkedin.com/in/munarm45](https://www.linkedin.com/in/munarm45/)
 - **Website:** [www.omarmuneercoder.de](https://www.omarmuneercoder.de/)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munarm45&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munarm45&layout=compact&theme=dark)
-
----
-
-## 🚀 Current Focus
-
-- Expanding AI integrations using Model Context Protocol (MCP)
-- Deepening expertise in cloud-native architectures
-- Contributing to open-source projects
-- Mentoring junior developers
-- Generative AI Applications
 
 ---
 
