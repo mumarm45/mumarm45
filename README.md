@@ -54,11 +54,12 @@ I'm passionate about creating robust, performant applications and mentoring deve
 
 ## 🚀 Current Focus
 
-- Expanding AI integrations using Model Context Protocol (MCP)
-- Deepening expertise in cloud-native architectures
-- Contributing to open-source projects
-- Mentoring junior developers
 - Generative AI Applications and RAG 
+- Expanding AI integrations using Model Context Protocol (MCP)
+    - Learing project
+        - https://github.com/mumarm45/gen-ai-learing
+        - https://github.com/mumarm45/icebreaker
+- Deepening expertise in cloud-native architectures   
 
 ---
 ## 📫 Get in Touch
