@@ -69,10 +69,10 @@ I'm passionate about creating robust, performant applications and mentoring deve
 - **Location:** Ingolstadt, Bavaria, Germany
 - **Phone:** +49 162 473 9773
 - **LinkedIn:** [linkedin.com/in/munarm45](https://www.linkedin.com/in/munarm45/)
-- **Website:** [www.omarmuneercoder.de](https://www.omarmuneercoder.de/)
+- **Website:** [www.resumeprobuilder.de]((https://resumeprobuilder.de/))
 
 ---
 
 ⭐️ **Open to opportunities in Full-Stack Development & DevOps Engineering**
 
-*Last Updated: December 2024*
+*Last Updated: December 2026*
