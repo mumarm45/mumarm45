@@ -75,4 +75,4 @@ I'm passionate about creating robust, performant applications and mentoring deve
 
 ⭐️ **Open to opportunities in Full-Stack Development & DevOps Engineering**
 
-*Last Updated: December 2026*
+*Last Updated: April 2026*
