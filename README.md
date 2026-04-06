@@ -69,7 +69,7 @@ I'm passionate about creating robust, performant applications and mentoring deve
 - **Location:** Ingolstadt, Bavaria, Germany
 - **Phone:** +49 162 473 9773
 - **LinkedIn:** [linkedin.com/in/munarm45](https://www.linkedin.com/in/munarm45/)
-- **Website:** [www.resumeprobuilder.de]((https://resumeprobuilder.de/))
+- **Website:** [www.resumeprobuilder.de](https://resumeprobuilder.de/)
 
 ---
 
