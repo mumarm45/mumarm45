@@ -18,6 +18,7 @@ I work across the stack — from React/Next.js frontends to serverless backends 
 
 **Trenkwalder** — building **TalentAI**, an LLM-based candidate screening service.
 
+- **Microservices & event-driven architecture:** Designing and building TalentAI as microservices communicating asynchronously via **AWS SQS** and **RabbitMQ**, decoupling services for independent scaling and resilient processing
 - **EU AI Act–aware product design:** Designed neutral, non-judgmental UI for AI-generated assessments — replaced a red/green traffic-light flag system with a four-tier attention scale (none / low / medium / high), triple-encoded via label, shape and tone for accessibility and fairness
 - **Microsoft Graph integration:** Email integration delivered; building Outlook calendar integration (view availability, create interview events, handle candidate declines and reschedules) using app-only permissions
 - **Release engineering:** Moved the team from a Gitflow-style model to **trunk-based development** with feature flags, tag-triggered deployments, immutable artifact promotion and a defined hotfix flow
@@ -57,7 +58,7 @@ I work across the stack — from React/Next.js frontends to serverless backends 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-**Technologies:** AWS (Lambda, SSM Parameter Store, EventBridge, EC2, Beanstalk, S3), GCP, Docker, Docker Compose, CI/CD (GitHub Actions, Azure DevOps, Jenkins), PostHog feature flags
+**Technologies:** AWS (Lambda, SQS, SSM Parameter Store, EventBridge, EC2, Beanstalk, S3), GCP, Docker, Docker Compose, CI/CD (GitHub Actions, Azure DevOps, Jenkins), PostHog feature flags
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -66,9 +67,9 @@ I work across the stack — from React/Next.js frontends to serverless backends 
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### Architecture & Practices
-- Microservices, Monolith, MVC, Design Patterns
+- Microservices, event-driven architecture, Monolith, MVC, Design Patterns
 - Trunk-based development, feature flags, expand-and-contract migrations
-- Messaging: RabbitMQ
+- Messaging: AWS SQS, RabbitMQ
 - Testing: TDD, BDD, Unit & Integration Testing (Jasmine, Jest, JUnit)
 - Building with the EU AI Act in mind
 
